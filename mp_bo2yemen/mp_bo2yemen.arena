@@ -1,0 +1,12 @@
+
+{
+  map           "mp_bo2yemen"
+  longname      "Yemen"
+  gametype      "dm war sab sab2 dom sd sd2 hc thc ctf koth dd oneflag gtnw"
+  description   "MPUI_DESC_MAP_BO2YEMEN"
+  mapimage      "preview_mp_bo2yemen"
+  mapoverlay    "compass_overlay_map_blank "
+  allieschar    "seals_udt"
+  axischar      "opforce_airborne"
+  environment   "forest"
+}
